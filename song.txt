@@ -1,3 +1,5 @@
 New test file
 second sentence
 is right here
+
+More new lines
