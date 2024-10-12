@@ -1,5 +1,9 @@
 New test file
 New verse feature
 
+
 New verses from master branch
 Arę here
+
+Another verse which is not the first one but feature one
+
